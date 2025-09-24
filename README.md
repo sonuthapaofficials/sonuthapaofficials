@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sonuthapaofficials
-- 👀 I’m interested in female
-- 🌱 I’m currently learning to get beautiful female
-- 💞️ I’m looking to collaborate on anytime
+
 
 
 <!---
